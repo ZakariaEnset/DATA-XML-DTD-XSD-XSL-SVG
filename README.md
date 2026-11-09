@@ -4,11 +4,18 @@
 ![representation graphine de fichier xml](screenshoots/p1_pic1.png)
 ### REPRESENTATION HTML
 ![representation html de fichier xml](screenshoots/p1_pic2.png)
-## PARTIE 1: OPERATEUR
+## PARTIE 2: OPERATEUR
 ### REPRESENTATION GRAPHIQUE
 ![representation graphine de fichier xml](screenshoots/p2_pic1.png)
 ### REPRESENTATION HTML
 ![representation html de fichier xml](screenshoots/p2_pic2.png)
+## PARTIE 3: RELEVE
+### REPRESENTATION GRAPHIQUE
+![representation graphine de fichier xml](screenshoots/p3_pic1.png)
+### REPRESENTATION HTML (Toutes les operations)
+![representation html de fichier xml](screenshoots/p3_pic2.png)
+### REPRESENTATION HTML (Operations de type credit)
+![representation html de fichier xml](screenshoots/p3_pic3.png)
 ## PARTIE 4: METEO
 ### REPRESENTATION HTML
 ![representation html de fichier xml](screenshoots/p4_pic1.png)
